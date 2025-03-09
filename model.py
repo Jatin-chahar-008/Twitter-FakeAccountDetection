@@ -39,7 +39,7 @@ def Create_Input_Window():
 		'UserID':[e1.get()],
 		'No Of Abuse Report':[e2.get()],
 		'Rejected Friend Requests':[e3.get()],
-		'No Of Freind Requests Thar Are Not Accepted':[e4.get()],
+		'No Of Friend Requests Thar Are Not Accepted':[e4.get()],
 		'No Of Friends':[e5.get()],
 		'No Of Followers':[e6.get()],
 		'No Of Likes To Unknown Account':[e7.get()],
