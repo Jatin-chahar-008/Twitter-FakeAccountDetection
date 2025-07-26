@@ -12,19 +12,19 @@
 ## A glimpse of running the model
 **Output Window**
 
-![Images](/images/1.PNG)
+<img src="/images/1.PNG" width="500">
 
 **Custom User Account**
 
-![Images](/images/2.png)
+<img src="/images/2.png" width="500" >
 
 **Sample Classifier accuracy**
 
-![Images](/images/3.PNG)
+<img src="/images/3.PNG" width="500">
 
 **Classifier comparison**
 
-![Images](/images/4.png)
+<img src="/images/4.png" width="500">
 
 
 ## How to run?
